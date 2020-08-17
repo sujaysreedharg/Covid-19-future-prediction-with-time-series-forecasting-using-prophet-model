@@ -14,4 +14,22 @@ fidelity of the model, a Machine Learning model called Prophet
 which was introduced by Facebook has been used to train and test
 on the observed data. Finally, it has been used to draw probabilistic
 insights for the future on the new cases, recovered cases and new
-deaths for the next month
+deaths for the next month.
+
+
+# A proper insight of the model:
+
+![Error](readmeres/sd.png)
+
+
+
+
+
+![Error](readmeres/wer.png)
+
+
+
+
+
+
+![Error](readmeres/werw.png)
