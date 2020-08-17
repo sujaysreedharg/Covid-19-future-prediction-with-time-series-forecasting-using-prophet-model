@@ -32,4 +32,4 @@ deaths for the next month.
 
 
 
-![Error](readmeres/werw.png)
+![Error](readmeres/werew.png)
